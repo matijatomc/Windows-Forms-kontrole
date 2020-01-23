@@ -1,0 +1,9 @@
+C:\Users\Matija\source\repos\tomcMatijaTrackBar\tomcMatijaTrackBar\bin\Debug\tomcMatijaTrackBar.exe.config
+C:\Users\Matija\source\repos\tomcMatijaTrackBar\tomcMatijaTrackBar\bin\Debug\tomcMatijaTrackBar.exe
+C:\Users\Matija\source\repos\tomcMatijaTrackBar\tomcMatijaTrackBar\bin\Debug\tomcMatijaTrackBar.pdb
+C:\Users\Matija\source\repos\tomcMatijaTrackBar\tomcMatijaTrackBar\obj\Debug\tomcMatijaTrackBar.csprojAssemblyReference.cache
+C:\Users\Matija\source\repos\tomcMatijaTrackBar\tomcMatijaTrackBar\obj\Debug\tomcMatijaTrackBar.Form1.resources
+C:\Users\Matija\source\repos\tomcMatijaTrackBar\tomcMatijaTrackBar\obj\Debug\tomcMatijaTrackBar.Properties.Resources.resources
+C:\Users\Matija\source\repos\tomcMatijaTrackBar\tomcMatijaTrackBar\obj\Debug\tomcMatijaTrackBar.csproj.GenerateResource.cache
+C:\Users\Matija\source\repos\tomcMatijaTrackBar\tomcMatijaTrackBar\obj\Debug\tomcMatijaTrackBar.exe
+C:\Users\Matija\source\repos\tomcMatijaTrackBar\tomcMatijaTrackBar\obj\Debug\tomcMatijaTrackBar.pdb
