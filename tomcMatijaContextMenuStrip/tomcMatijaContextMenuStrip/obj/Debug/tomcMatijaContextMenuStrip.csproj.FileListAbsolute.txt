@@ -1,0 +1,8 @@
+C:\Users\Matija\source\repos\tomcMatijaContextMenuStrip\tomcMatijaContextMenuStrip\bin\Debug\tomcMatijaContextMenuStrip.exe.config
+C:\Users\Matija\source\repos\tomcMatijaContextMenuStrip\tomcMatijaContextMenuStrip\bin\Debug\tomcMatijaContextMenuStrip.exe
+C:\Users\Matija\source\repos\tomcMatijaContextMenuStrip\tomcMatijaContextMenuStrip\bin\Debug\tomcMatijaContextMenuStrip.pdb
+C:\Users\Matija\source\repos\tomcMatijaContextMenuStrip\tomcMatijaContextMenuStrip\obj\Debug\tomcMatijaContextMenuStrip.Form1.resources
+C:\Users\Matija\source\repos\tomcMatijaContextMenuStrip\tomcMatijaContextMenuStrip\obj\Debug\tomcMatijaContextMenuStrip.Properties.Resources.resources
+C:\Users\Matija\source\repos\tomcMatijaContextMenuStrip\tomcMatijaContextMenuStrip\obj\Debug\tomcMatijaContextMenuStrip.csproj.GenerateResource.cache
+C:\Users\Matija\source\repos\tomcMatijaContextMenuStrip\tomcMatijaContextMenuStrip\obj\Debug\tomcMatijaContextMenuStrip.exe
+C:\Users\Matija\source\repos\tomcMatijaContextMenuStrip\tomcMatijaContextMenuStrip\obj\Debug\tomcMatijaContextMenuStrip.pdb
