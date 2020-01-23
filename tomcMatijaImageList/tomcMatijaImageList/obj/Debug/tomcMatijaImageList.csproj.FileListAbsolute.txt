@@ -1,0 +1,8 @@
+C:\Users\Matija\source\repos\tomcMatijaImageList\tomcMatijaImageList\obj\Debug\tomcMatijaImageList.Form1.resources
+C:\Users\Matija\source\repos\tomcMatijaImageList\tomcMatijaImageList\obj\Debug\tomcMatijaImageList.Properties.Resources.resources
+C:\Users\Matija\source\repos\tomcMatijaImageList\tomcMatijaImageList\obj\Debug\tomcMatijaImageList.csproj.GenerateResource.cache
+C:\Users\Matija\source\repos\tomcMatijaImageList\tomcMatijaImageList\bin\Debug\tomcMatijaImageList.exe.config
+C:\Users\Matija\source\repos\tomcMatijaImageList\tomcMatijaImageList\bin\Debug\tomcMatijaImageList.exe
+C:\Users\Matija\source\repos\tomcMatijaImageList\tomcMatijaImageList\bin\Debug\tomcMatijaImageList.pdb
+C:\Users\Matija\source\repos\tomcMatijaImageList\tomcMatijaImageList\obj\Debug\tomcMatijaImageList.exe
+C:\Users\Matija\source\repos\tomcMatijaImageList\tomcMatijaImageList\obj\Debug\tomcMatijaImageList.pdb

@@ -1,0 +1,9 @@
+C:\Users\Matija\source\repos\tomcMatijaPictureBox\tomcMatijaPictureBox\bin\Debug\tomcMatijaPictureBox.exe.config
+C:\Users\Matija\source\repos\tomcMatijaPictureBox\tomcMatijaPictureBox\bin\Debug\tomcMatijaPictureBox.exe
+C:\Users\Matija\source\repos\tomcMatijaPictureBox\tomcMatijaPictureBox\bin\Debug\tomcMatijaPictureBox.pdb
+C:\Users\Matija\source\repos\tomcMatijaPictureBox\tomcMatijaPictureBox\obj\Debug\tomcMatijaPictureBox.csprojAssemblyReference.cache
+C:\Users\Matija\source\repos\tomcMatijaPictureBox\tomcMatijaPictureBox\obj\Debug\tomcMatijaPictureBox.Form1.resources
+C:\Users\Matija\source\repos\tomcMatijaPictureBox\tomcMatijaPictureBox\obj\Debug\tomcMatijaPictureBox.Properties.Resources.resources
+C:\Users\Matija\source\repos\tomcMatijaPictureBox\tomcMatijaPictureBox\obj\Debug\tomcMatijaPictureBox.csproj.GenerateResource.cache
+C:\Users\Matija\source\repos\tomcMatijaPictureBox\tomcMatijaPictureBox\obj\Debug\tomcMatijaPictureBox.exe
+C:\Users\Matija\source\repos\tomcMatijaPictureBox\tomcMatijaPictureBox\obj\Debug\tomcMatijaPictureBox.pdb
