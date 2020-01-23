@@ -1,0 +1,10 @@
+C:\Users\3.D\source\repos\matijaTomcCheckBox\matijaTomcCheckBox\bin\Debug\matijaTomcCheckBox.exe.config
+C:\Users\3.D\source\repos\matijaTomcCheckBox\matijaTomcCheckBox\bin\Debug\matijaTomcCheckBox.exe
+C:\Users\3.D\source\repos\matijaTomcCheckBox\matijaTomcCheckBox\bin\Debug\matijaTomcCheckBox.pdb
+C:\Users\3.D\source\repos\matijaTomcCheckBox\matijaTomcCheckBox\obj\Debug\matijaTomcCheckBox.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\matijaTomcCheckBox\matijaTomcCheckBox\obj\Debug\matijaTomcCheckBox.Form1.resources
+C:\Users\3.D\source\repos\matijaTomcCheckBox\matijaTomcCheckBox\obj\Debug\matijaTomcCheckBox.Properties.Resources.resources
+C:\Users\3.D\source\repos\matijaTomcCheckBox\matijaTomcCheckBox\obj\Debug\matijaTomcCheckBox.csproj.GenerateResource.cache
+C:\Users\3.D\source\repos\matijaTomcCheckBox\matijaTomcCheckBox\obj\Debug\matijaTomcCheckBox.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\matijaTomcCheckBox\matijaTomcCheckBox\obj\Debug\matijaTomcCheckBox.exe
+C:\Users\3.D\source\repos\matijaTomcCheckBox\matijaTomcCheckBox\obj\Debug\matijaTomcCheckBox.pdb
