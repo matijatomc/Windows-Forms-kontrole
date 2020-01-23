@@ -42,69 +42,69 @@
             this.groupBox1.Controls.Add(this.radioButtonVlastiti);
             this.groupBox1.Controls.Add(this.radioButtonAutobus);
             this.groupBox1.Controls.Add(this.radioButtonAvion);
-            this.groupBox1.Location = new System.Drawing.Point(60, 29);
+            this.groupBox1.Location = new System.Drawing.Point(46, 32);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(157, 123);
+            this.groupBox1.Size = new System.Drawing.Size(147, 116);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Odaberite vrdtu prijevoza";
+            this.groupBox1.Text = "Odaberi vrsti prijevoza";
             // 
             // radioButtonAvion
             // 
             this.radioButtonAvion.AutoSize = true;
-            this.radioButtonAvion.Location = new System.Drawing.Point(36, 33);
+            this.radioButtonAvion.Location = new System.Drawing.Point(44, 31);
             this.radioButtonAvion.Name = "radioButtonAvion";
             this.radioButtonAvion.Size = new System.Drawing.Size(52, 17);
             this.radioButtonAvion.TabIndex = 0;
-            this.radioButtonAvion.TabStop = true;
             this.radioButtonAvion.Text = "Avion";
             this.radioButtonAvion.UseVisualStyleBackColor = true;
-            this.radioButtonAvion.CheckedChanged += new System.EventHandler(this.RadioButton1_CheckedChanged);
+            this.radioButtonAvion.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
             // 
             // radioButtonAutobus
             // 
             this.radioButtonAutobus.AutoSize = true;
-            this.radioButtonAutobus.Location = new System.Drawing.Point(36, 56);
+            this.radioButtonAutobus.Location = new System.Drawing.Point(44, 54);
             this.radioButtonAutobus.Name = "radioButtonAutobus";
             this.radioButtonAutobus.Size = new System.Drawing.Size(64, 17);
             this.radioButtonAutobus.TabIndex = 1;
-            this.radioButtonAutobus.TabStop = true;
             this.radioButtonAutobus.Text = "Autobus";
             this.radioButtonAutobus.UseVisualStyleBackColor = true;
             // 
             // radioButtonVlastiti
             // 
             this.radioButtonVlastiti.AutoSize = true;
-            this.radioButtonVlastiti.Location = new System.Drawing.Point(36, 79);
+            this.radioButtonVlastiti.Location = new System.Drawing.Point(44, 77);
             this.radioButtonVlastiti.Name = "radioButtonVlastiti";
             this.radioButtonVlastiti.Size = new System.Drawing.Size(55, 17);
             this.radioButtonVlastiti.TabIndex = 2;
-            this.radioButtonVlastiti.TabStop = true;
             this.radioButtonVlastiti.Text = "Vlastiti";
             this.radioButtonVlastiti.UseVisualStyleBackColor = true;
             // 
             // buttonRezerviraj
             // 
-            this.buttonRezerviraj.Location = new System.Drawing.Point(96, 158);
+            this.buttonRezerviraj.Location = new System.Drawing.Point(78, 154);
             this.buttonRezerviraj.Name = "buttonRezerviraj";
-            this.buttonRezerviraj.Size = new System.Drawing.Size(91, 22);
+            this.buttonRezerviraj.Size = new System.Drawing.Size(85, 27);
             this.buttonRezerviraj.TabIndex = 1;
             this.buttonRezerviraj.Text = "Rezerviraj";
             this.buttonRezerviraj.UseVisualStyleBackColor = true;
+            this.buttonRezerviraj.Click += new System.EventHandler(this.buttonRezerviraj_Click);
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(60, 200);
+            this.textBox1.Location = new System.Drawing.Point(46, 216);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(157, 59);
+            this.textBox1.Size = new System.Drawing.Size(147, 75);
             this.textBox1.TabIndex = 2;
+            this.textBox1.Text = "Odabrali ste prijevoz";
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(253, 286);
+            this.ClientSize = new System.Drawing.Size(293, 329);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.buttonRezerviraj);
             this.Controls.Add(this.groupBox1);
