@@ -1,0 +1,9 @@
+C:\Users\Matija\source\repos\tomcMatijaTimer\tomcMatijaTimer\obj\Debug\tomcMatijaTimer.csprojAssemblyReference.cache
+C:\Users\Matija\source\repos\tomcMatijaTimer\tomcMatijaTimer\obj\Debug\tomcMatijaTimer.Form1.resources
+C:\Users\Matija\source\repos\tomcMatijaTimer\tomcMatijaTimer\obj\Debug\tomcMatijaTimer.Properties.Resources.resources
+C:\Users\Matija\source\repos\tomcMatijaTimer\tomcMatijaTimer\obj\Debug\tomcMatijaTimer.csproj.GenerateResource.cache
+C:\Users\Matija\source\repos\tomcMatijaTimer\tomcMatijaTimer\bin\Debug\tomcMatijaTimer.exe.config
+C:\Users\Matija\source\repos\tomcMatijaTimer\tomcMatijaTimer\bin\Debug\tomcMatijaTimer.exe
+C:\Users\Matija\source\repos\tomcMatijaTimer\tomcMatijaTimer\bin\Debug\tomcMatijaTimer.pdb
+C:\Users\Matija\source\repos\tomcMatijaTimer\tomcMatijaTimer\obj\Debug\tomcMatijaTimer.exe
+C:\Users\Matija\source\repos\tomcMatijaTimer\tomcMatijaTimer\obj\Debug\tomcMatijaTimer.pdb
