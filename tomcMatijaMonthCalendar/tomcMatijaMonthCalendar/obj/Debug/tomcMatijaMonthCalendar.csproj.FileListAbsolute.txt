@@ -1,0 +1,9 @@
+C:\Users\Matija\source\repos\tomcMatijaMonthCalendar\tomcMatijaMonthCalendar\bin\Debug\tomcMatijaMonthCalendar.exe.config
+C:\Users\Matija\source\repos\tomcMatijaMonthCalendar\tomcMatijaMonthCalendar\bin\Debug\tomcMatijaMonthCalendar.exe
+C:\Users\Matija\source\repos\tomcMatijaMonthCalendar\tomcMatijaMonthCalendar\bin\Debug\tomcMatijaMonthCalendar.pdb
+C:\Users\Matija\source\repos\tomcMatijaMonthCalendar\tomcMatijaMonthCalendar\obj\Debug\tomcMatijaMonthCalendar.csprojAssemblyReference.cache
+C:\Users\Matija\source\repos\tomcMatijaMonthCalendar\tomcMatijaMonthCalendar\obj\Debug\tomcMatijaMonthCalendar.Form1.resources
+C:\Users\Matija\source\repos\tomcMatijaMonthCalendar\tomcMatijaMonthCalendar\obj\Debug\tomcMatijaMonthCalendar.Properties.Resources.resources
+C:\Users\Matija\source\repos\tomcMatijaMonthCalendar\tomcMatijaMonthCalendar\obj\Debug\tomcMatijaMonthCalendar.csproj.GenerateResource.cache
+C:\Users\Matija\source\repos\tomcMatijaMonthCalendar\tomcMatijaMonthCalendar\obj\Debug\tomcMatijaMonthCalendar.exe
+C:\Users\Matija\source\repos\tomcMatijaMonthCalendar\tomcMatijaMonthCalendar\obj\Debug\tomcMatijaMonthCalendar.pdb
